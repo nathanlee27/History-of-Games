@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="Added the embed code" />
+    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="Embed Code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -87,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604435961642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Problem">
+      <created>1604436525347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604436525347</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Embed Code">
+      <created>1604436631450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604436631450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,9 +124,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the embed code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the embed code" />
+    <MESSAGE value="Problem" />
+    <MESSAGE value="Embed Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Embed Code" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1604437006089">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.896@0.0.1440.896" timestamp="1604437006089" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604349020325">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
@@ -123,13 +149,21 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604349020321" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604436078971">
+    <state x="481" y="159" key="RollbackChangesDialog" timestamp="1604436375902">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604436078971" />
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604436274013">
+    <state x="481" y="159" key="RollbackChangesDialog/0.0.1440.896@0.0.1440.896" timestamp="1604436375902" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604436636916">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604436274013" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604436636916" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604436685590">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604436685590" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

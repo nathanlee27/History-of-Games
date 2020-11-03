@@ -1,6 +1,6 @@
 def tetris():
     greeting = "Hey, Hey, Hey!"
-    name = "Repl"
+    name = "tetris"
     doa = "October 30"
     job = "Runtime Link"
     embed = "https://python-hello-series.jmort1021.repl.run"
