@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="Embed Code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-    </list>
+    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="For python 3.9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/venv/bin/python" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604436631450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="For python 3.9">
+      <created>1604437087326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604437087327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,13 +130,18 @@
     <MESSAGE value="Added the embed code" />
     <MESSAGE value="Problem" />
     <MESSAGE value="Embed Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Embed Code" />
+    <MESSAGE value="For python 3.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="For python 3.9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1604437006089">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="208" y="31" key="#Project_Structure/0.0.1440.896@0.0.1440.896" timestamp="1604437006089" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604437119033">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604437119033" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604349020325">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
@@ -153,14 +162,14 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="481" y="159" key="RollbackChangesDialog/0.0.1440.896@0.0.1440.896" timestamp="1604436375902" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604436636916">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604437092498">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604436636916" />
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604436685590">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604437092498" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604437058603">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604436685590" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604437058603" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
