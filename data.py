@@ -34,7 +34,7 @@ def pacman():
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
-def code():
+def crazy():
     greeting = "Code, Code, Code!"
     name = "Gist"
     doa = "October 2"
@@ -44,7 +44,7 @@ def code():
     return info
 
 def alldata():
-    return [tetris(), mario(), hangman(), pacman(), code()]
+    return [tetris(), mario(), hangman(), pacman(), crazy()]
 
 def runtime():
     greeting = "Hey, Hey, Hey!"
