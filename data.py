@@ -1,9 +1,9 @@
 def tetris():
-    greeting = "Hey, Hey, Hey!"
+    greeting = "Try and Play!"
     name = "tetris"
-    doa = "October 30"
-    job = "Runtime Link"
-    embed = "https://python-hello-series.jmort1021.repl.run"
+    doa = "#"
+    job = "#"
+    embed = "https://tetris.smrsan761.repl.co/"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 

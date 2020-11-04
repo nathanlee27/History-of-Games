@@ -1,5 +1,7 @@
 import data
+
 from flask import Flask, render_template
+
 #create a Flask instance
 app = Flask(__name__)
 
@@ -11,7 +13,7 @@ def home():
     
 @app.route('/tetris/')
 def tetris():
-    return render_template("tetris.html")
+    return render_template("tetris.html", data=data.tetris())
 
 @app.route('/mario/')
 def mario():
@@ -31,4 +33,4 @@ def playground():
 
 if __name__ == "__main__":
     #runs the application on the repl development server
-    app.run(debug=True, port='3000', host='0.0.0.0')
+    app.run(debug=True, port='5000', host='127.0.0.1')

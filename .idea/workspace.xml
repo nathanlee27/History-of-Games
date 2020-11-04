@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="For python 3.9">
-      <change beforePath="$PROJECT_DIR$/.idea/History-of-Games.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/History-of-Games.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tetris.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tetris.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604437125132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testing">
+      <created>1604521162677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604521162677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,45 +145,84 @@
     <MESSAGE value="Problem" />
     <MESSAGE value="Embed Code" />
     <MESSAGE value="For python 3.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="For python 3.9" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1604437006089">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="208" y="31" key="#Project_Structure/0.0.1440.896@0.0.1440.896" timestamp="1604437006089" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604437174220">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604521246227">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604437174220" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604349020325">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604521246227" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1604523005363">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604349020325" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1604349020318">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604523005363" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1604522130490" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1604523005361">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1604349020318" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1604349020316">
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1604523005361" />
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1604522130488" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1604523005360">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1604349020316" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1604349020321">
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1604523005360" />
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1604522130486" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1604523005362">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604349020321" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604523005362" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1604522130489" />
+    <state width="699" height="304" key="GridCell.Tab.1.bottom" timestamp="1604522569935">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="699" height="304" key="GridCell.Tab.1.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604522569935" />
+    <state width="699" height="304" key="GridCell.Tab.1.center" timestamp="1604522569931">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="699" height="304" key="GridCell.Tab.1.center/0.0.1440.896@0.0.1440.896" timestamp="1604522569931" />
+    <state width="699" height="304" key="GridCell.Tab.1.left" timestamp="1604522569919">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="699" height="304" key="GridCell.Tab.1.left/0.0.1440.896@0.0.1440.896" timestamp="1604522569919" />
+    <state width="699" height="304" key="GridCell.Tab.1.right" timestamp="1604522569932">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="699" height="304" key="GridCell.Tab.1.right/0.0.1440.896@0.0.1440.896" timestamp="1604522569932" />
     <state x="481" y="159" key="RollbackChangesDialog" timestamp="1604436375902">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="481" y="159" key="RollbackChangesDialog/0.0.1440.896@0.0.1440.896" timestamp="1604436375902" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604437181667">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604521176005">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604437181667" />
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604437058603">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604521176005" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604521204372">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604437058603" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604521204372" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,4 +1,14 @@
+{% set embed = data["embed"] %}
+{% set greeting = data["greeting"] %}
+{% set name = data["name"] %}
+{% set doa = data["doa"] %}
+{% set job = data["job"] %}
+{% set embed = data["embed"] %}
+{% set gist = data["gist"] %}
+
 {% extends "base.html" %}
+
+
 {% block title %}Index{% endblock %}
 {% block head %}
     {{ super() }}
@@ -28,8 +38,14 @@
       <img src=https://www.extremetech.com/wp-content/uploads/2014/06/tetris-game-boy-640x353.jpg alt="W3Schools.com" style="width:640px;height:353px;" align="right">
     </p>
 
+    <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" src={{embed}} style="width:640px;height:500px;"></iframe>
+    </div>
 
 {% endblock %}
+
+</html>
+
 
 
 
