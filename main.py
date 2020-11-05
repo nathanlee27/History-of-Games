@@ -17,7 +17,7 @@ def tetris():
 
 @app.route('/mario/')
 def mario():
-    return render_template("mario.html")
+    return render_template("mario.html", data=data.mario())
 
 @app.route('/hangman/')
 def hangman():

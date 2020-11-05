@@ -8,11 +8,11 @@ def tetris():
     return info
 
 def mario():
-    greeting = "Hey, Hey!"
-    name = "Padlet"
-    doa = "October 23"
-    job = "Project Planning"
-    embed = "https://padlet.com/jmortensen7/csptime1_2"
+    greeting = "Try a basic version of Mario here!"
+    name = "Mario"
+    doa = "#"
+    job = "#"
+    embed = "https://supermarioemulator.com/mario.php"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
