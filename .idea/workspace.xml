@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="For python 3.9">
+    <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="embed test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pacman.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pacman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604437125132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="embed test">
+      <created>1604607931808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604607931808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +146,8 @@
     <MESSAGE value="Problem" />
     <MESSAGE value="Embed Code" />
     <MESSAGE value="For python 3.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="For python 3.9" />
+    <MESSAGE value="embed test" />
+    <option name="LAST_COMMIT_MESSAGE" value="embed test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="23" key="#Project_Structure" timestamp="1604607174869">
@@ -152,38 +159,40 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604437174220" />
-    <state width="1166" height="226" key="GridCell.Tab.0.bottom" timestamp="1604607815428">
+    <state width="1166" height="226" key="GridCell.Tab.0.bottom" timestamp="1604608375839">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604349020325" />
-    <state width="1166" height="226" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604607815428" />
-    <state width="1166" height="226" key="GridCell.Tab.0.center" timestamp="1604607815427">
+    <state width="1166" height="226" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604608375839" />
+    <state width="1166" height="226" key="GridCell.Tab.0.center" timestamp="1604608375838">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1604349020318" />
-    <state width="1166" height="226" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604607815427" />
-    <state width="1166" height="226" key="GridCell.Tab.0.left" timestamp="1604607815427">
+    <state width="1166" height="226" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604608375838" />
+    <state width="1166" height="226" key="GridCell.Tab.0.left" timestamp="1604608375837">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1604349020316" />
-    <state width="1166" height="226" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604607815427" />
-    <state width="1166" height="226" key="GridCell.Tab.0.right" timestamp="1604607815428">
+    <state width="1166" height="226" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604608375837" />
+    <state width="1166" height="226" key="GridCell.Tab.0.right" timestamp="1604608375838">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604349020321" />
-    <state width="1166" height="226" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604607815428" />
+    <state width="1166" height="226" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604608375838" />
     <state x="481" y="159" key="RollbackChangesDialog" timestamp="1604436375902">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="481" y="159" key="RollbackChangesDialog/0.0.1440.896@0.0.1440.896" timestamp="1604436375902" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604437181667">
-      <screen x="0" y="0" width="1440" height="896" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1604607941494">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604437181667" />
-    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604437058603">
-      <screen x="0" y="0" width="1440" height="896" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1604607941494" />
+    <state x="521" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604608473923">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604437058603" />
+    <state x="521" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.821@0.23.1440.821" timestamp="1604608473923" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

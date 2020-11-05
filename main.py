@@ -25,7 +25,7 @@ def hangman():
 
 @app.route('/pacman/')
 def pacman():
-    return render_template("pacman.html")
+    return render_template("pacman.html", data=data.pacman())
 
 @app.route('/playground/')
 def playground():
