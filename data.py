@@ -95,12 +95,13 @@ def alldata():
     return [runtime(), planning(), journal(), playground(), code()]
 
 def playdata():
-    greeting = "Whats Up"
+    greeting = "What's Up"
     name = "Nathan Lee"
     dob = "September 27"
     job = "Student"
     story = "I have been working on the nav bar and worked on the history of Tetris."
-    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story}
+    embed = "https://docs.google.com/presentation/d/1UwtHx1CuNaf8BKTugaBryQUDw5UA3mnqIGHzcblct0c/edit?usp=sharing"
+    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
 def playdata2():
