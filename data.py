@@ -130,7 +130,8 @@ def playdata4():
     dob = "February 14"
     job = "Student"
     story = "I have been working on figuring out how to properly format the section of the website I will be given. This section will be about the history of Pacman"
-    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story}
+    embed = "https://docs.google.com/presentation/d/1HPdry90KJi5Y3TqhCe4nNMkt-ED34kKB_gLsL0GVNxY/edit#slide=id.p"
+    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
 def playlist():
