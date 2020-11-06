@@ -26,11 +26,11 @@ def hangman():
     return info
 
 def pacman():
-    greeting = "Play, Play, Play!"
-    name = "Replit"
-    doa = "October 9"
-    job = "Playground"
-    embed = "https://repl.it/@jmort1021/Python-Hello-Series?lite=true"
+    greeting = "Try it out!"
+    name = "PacMan"
+    doa = "#"
+    job = "#"
+    embed = "https://elgoog.im/pacman/"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
