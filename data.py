@@ -110,7 +110,8 @@ def playdata2():
     dob = "September 18"
     job = "Student"
     story = "I have been learning how to insert and resize images while working on my part of the website, the history of super mario."
-    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story}
+    embed = "https://docs.google.com/presentation/d/1-zesTnpihsksij4XkXu1oszIiYEoGnDxvgGWncpFhKA/edit?usp=sharing"
+    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
 
