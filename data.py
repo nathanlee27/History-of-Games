@@ -21,7 +21,7 @@ def hangman():
     name = "Google Doc"
     doa = "October 16"
     job = "Journal Record"
-    embed = "https://docs.google.com/document/d/1Om-4ns6kmzePFvCB2WAyXArEHLUvKVWcQ7jVwswtX-0/edit"
+    embed = "https://hangman.ryanluo1.repl.run"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 

@@ -21,7 +21,7 @@ def mario():
 
 @app.route('/hangman/')
 def hangman():
-    return render_template("hangman.html")
+    return render_template("hangman.html", data=data.hangman())
 
 @app.route('/pacman/')
 def pacman():

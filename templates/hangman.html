@@ -1,3 +1,4 @@
+{% set embed = data["embed"] %}
 {% extends "base.html" %}
 {% block title %}Index{% endblock %}
 {% block head %}
@@ -38,5 +39,9 @@
     <p class="important">
       <img src=https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/c32.0.281.281a/18855_272668808374_3379066_n.jpg?_nc_cat=109&ccb=2&_nc_sid=dbb9e7&_nc_ohc=KTPxkHAp2JoAX92pLzq&_nc_ht=scontent-lax3-1.xx&oh=b20ae1154e06cc548b124335d72af416&oe=5FBC4DBF alt="W3Schools.com" style="width:344px;height:281px;;">
     </p>
+
+    <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" src={{embed}} style="width:640px;height:500px;"></iframe>
+    </div>
 {% endblock %}
   
