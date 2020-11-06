@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="For python 3.9">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_40_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_43_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_43_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/mario.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/tetris.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tetris.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +49,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -63,7 +58,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\aiden\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -153,26 +148,22 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604437174220" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1604599913347">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604349020325">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604349020325" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1604599913347">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1604349020318">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1604349020318" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1604599913347">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1604349020316">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1604349020316" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1604599913347">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1604349020321">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604349020321" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
     <state x="481" y="159" key="RollbackChangesDialog" timestamp="1604436375902">
       <screen x="0" y="0" width="1440" height="896" />
     </state>
@@ -181,22 +172,10 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.896@0.0.1440.896" timestamp="1604437181667" />
-    <state x="556" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604598752080">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604437058603">
+      <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604437058603" />
-    <state x="556" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604598752080" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
