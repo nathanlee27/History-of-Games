@@ -18,10 +18,10 @@ def mario():
 
 def hangman():
     greeting = "Hey!"
-    name = "Google Doc"
-    doa = "October 16"
-    job = "Journal Record"
-    embed = "https://repl.it/@RyanLuo1/Hangman-1#main.py"
+    name = "Hangman"
+    doa = "#"
+    job = "#"
+    embed = "https://www.coolmathgames.com/0-hangman"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
