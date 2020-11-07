@@ -18,10 +18,10 @@ def mario():
 
 def hangman():
     greeting = "Hey!"
-    name = "Google Doc"
-    doa = "October 16"
-    job = "Journal Record"
-    embed = "https://repl.it/@RyanLuo1/Hangman-1#main.py"
+    name = "Hangman"
+    doa = "#"
+    job = "#"
+    embed = "https://www.coolmathgames.com/0-hangman"
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
     return info
 
@@ -121,7 +121,8 @@ def playdata3():
     dob = "September 2"
     job = "Student"
     story = "I have been learning how to change fonts and incorporate pictures into our website. I am also responsible for the history of hangman."
-    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story}
+    embed = "https://docs.google.com/presentation/d/1aLmkUL7FpbbNmGS-C-xQX7d_RyrK0bRiMp3Pblgdnwk/edit?usp=sharing"
+    info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
 def playdata4():
