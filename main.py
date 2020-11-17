@@ -31,6 +31,10 @@ def pacman():
 def playground():
     return render_template("playground.html", datalist=data.playlist())
 
+@app.route('/monkey/')
+def monkey():
+    return render_template("monkey.html", data=data.monkey())
+
 if __name__ == "__main__":
     #runs the application on the repl development server
     app.run(debug=True, port='5002', host='127.0.0.1')
