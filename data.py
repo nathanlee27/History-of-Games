@@ -43,8 +43,17 @@ def crazy():
     info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "gist": gist}
     return info
 
+def monkey():
+    greeting = "Try it out!"
+    name = "MonkeyMath"
+    doa = "#"
+    job = "#"
+    embed = "https://repl.it/@lukemanning224/P4bang#README.md"
+    info = {"greeting": greeting, "name": name, "doa": doa, "job": job, "embed": embed}
+    return info
+
 def alldata():
-    return [tetris(), mario(), hangman(), pacman(), crazy()]
+    return [tetris(), mario(), hangman(), pacman(), crazy(), monkey()]
 
 def runtime():
     greeting = "Hey, Hey, Hey!"
