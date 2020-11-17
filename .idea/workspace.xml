@@ -20,13 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dac1111-3bd9-4c3c-b7e5-6b93cf57a866" name="Default Changelist" comment="Inserted Slides link">
+      <change afterPath="$PROJECT_DIR$/templates/monkey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_40_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_43_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_3_20__12_43_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -61,7 +74,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="SDK_HOME" value="C:\Users\aiden\AppData\Local\Programs\Python\Python39\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -179,29 +192,29 @@
       <screen x="0" y="0" width="1440" height="896" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.896@0.0.1440.896" timestamp="1604437174220" />
-    <state width="1358" height="189" key="GridCell.Tab.0.bottom" timestamp="1604724355677">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1605645458821">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1604694020762" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1605645458821" />
     <state width="1358" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1604724355677" />
-    <state width="1358" height="189" key="GridCell.Tab.0.center" timestamp="1604724355676">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1605645458820">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1604694020760" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1605645458820" />
     <state width="1358" height="189" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1604724355676" />
-    <state width="1358" height="189" key="GridCell.Tab.0.left" timestamp="1604724355676">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1605645458820">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1604694020753" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1605645458820" />
     <state width="1358" height="189" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1604724355676" />
-    <state width="1358" height="189" key="GridCell.Tab.0.right" timestamp="1604724355677">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1605645458820">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1604694020761" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604599913347" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1605645458820" />
     <state width="1358" height="189" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1604724355677" />
     <state x="481" y="159" key="RollbackChangesDialog" timestamp="1604436375902">
       <screen x="0" y="0" width="1440" height="896" />
@@ -217,6 +230,17 @@
     </state>
     <state x="521" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.896@0.0.1440.896" timestamp="1604694257215" />
     <state x="556" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1604598752080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
