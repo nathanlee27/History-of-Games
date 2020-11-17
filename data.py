@@ -119,7 +119,7 @@ def playdata2():
     dob = "September 18"
     job = "Student"
     story = "I have been learning how to insert and resize images while working on my part of the website, the history of super mario."
-    embed = "https://docs.google.com/presentation/d/1-zesTnpihsksij4XkXu1oszIiYEoGnDxvgGWncpFhKA/edit?usp=sharing"
+    embed = "https://docs.google.com/document/d/1qAcxHaAORalsMAXtPgNCXrKSBNuxn1uG0k4_p_nNF2s/edit"
     info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
@@ -140,7 +140,7 @@ def playdata4():
     dob = "February 14"
     job = "Student"
     story = "I have been working on figuring out how to properly format the section of the website I will be given. This section will be about the history of Pacman"
-    embed = "https://docs.google.com/presentation/d/1HPdry90KJi5Y3TqhCe4nNMkt-ED34kKB_gLsL0GVNxY/edit#slide=id.p"
+    embed = "https://docs.google.com/document/d/1qAcxHaAORalsMAXtPgNCXrKSBNuxn1uG0k4_p_nNF2s/edit"
     info = {"greeting": greeting, "name": name, "dob": dob, "job": job, "story": story, "embed": embed}
     return info
 
