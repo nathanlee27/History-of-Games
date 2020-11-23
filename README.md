@@ -22,6 +22,8 @@ home.html - The main area of our website is just a description of what our websi
 
 hangman/mario/pacman/tetris.html - These all are places where links can be found for the specific games history.
 
+monkey.html - This is where our Hello Series Project is at. You can find the repl for it here.
+
 playground.html - This is where the jinja code is used to pull from data.py to show our creators tab.
 
 
